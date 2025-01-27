@@ -1,8 +1,6 @@
-# education
-
-this is my education page...
+# Education
 
 [about_me](index)
-[emplyment history](employment)
-[education](myeducation)
+[emplyment_history](employment)
+[education](education)
 [contact](contact)
