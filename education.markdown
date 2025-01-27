@@ -4,5 +4,5 @@ this is my education page...
 
 [about_me](index)
 [emplyment history](employment)
-[education](education)
+[education](myeducation)
 [contact](contact)
