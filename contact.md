@@ -1,7 +1,7 @@
 # Contact Me  
 
 ##  Let's Connect!  
- **GitHub**: [Saumil Patel](https://github.com/yourgithub)  
+ **GitHub**: [Saumil Patel](https://github.com/patelsaumil)  
  **LinkedIn**: [Saumil Patel](https://www.linkedin.com/in/saumil-patel-608687128/)  
  **Instagram**: [@saumil_patel_015](https://www.instagram.com/saumil_patel_015)  
 
