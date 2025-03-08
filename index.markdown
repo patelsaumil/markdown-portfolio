@@ -1,12 +1,10 @@
-# Saumil Patel
+# Welcome to My Portfolio  
 
-## About Me  
-I am a **Project Manager & Full-Stack Developer** with experience in **healthcare IT** and **web development**.  
-I have a background in **computer science** and **project management**, with a strong passion for **technology and innovation**.  
+Hi, I'm **Saumil Patel**, a Full-Stack Developer specializing in IT solutions.  
 
-### Skills  
-- Full-Stack Development (React, Node.js, PHP, MySQL)  
-- Agile & Scrum Methodologies  
-- Healthcare IT Solutions  
+Passionate about **web development, software engineering, and healthcare IT**.  
+Experienced in **full-stack technologies, interaction design, and system architecture**.  
 
-[View My Projects](projects.md)
+Explore my work and let's connect!  
+
+[About Me](about.md) | [Projects](projects.md) | [Contact](contact.md)
